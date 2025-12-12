@@ -12,7 +12,7 @@ Live Demo: https://weather-app-nu-blue-21.vercel.app/
 - Clean and modern interface
 
 ## Screenshot 
-![Web Page Screenshot](src/assets/RockPaperScissorsGame.png)
+![Web Page Screenshot](src/assets/Weatherinterface.png)
 
 ## Technologies Used
 - React
