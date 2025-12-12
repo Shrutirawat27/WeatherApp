@@ -11,6 +11,9 @@ Live Demo: https://weather-app-nu-blue-21.vercel.app/
 - Error handling
 - Clean and modern interface
 
+## Screenshot 
+![Web Page Screenshot](src/assets/RockPaperScissorsGame.png)
+
 ## Technologies Used
 - React
 - Vite
