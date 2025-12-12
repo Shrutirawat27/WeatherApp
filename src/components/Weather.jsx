@@ -32,7 +32,6 @@ const Weather = () => {
     "13n" : snow_icon,
   }
 
-
   const search = async (city) => {
     if(city === "") {
       alert("Enter City Name");
@@ -102,4 +101,4 @@ const Weather = () => {
   )
 }
 
-export default Weather
+export default Weather;
